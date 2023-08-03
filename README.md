@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Flutter & Artificial Intelligence
 - 📫 How to reach me 1elifdemirkiran@gmail.com
 
-Connect with me:
-https://www.linkedin.com/in/elifdemirkıran/
 
 
   
