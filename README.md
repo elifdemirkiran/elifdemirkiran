@@ -1,4 +1,4 @@
- [![MasterHead](https://images.squarespace-cdn.com/content/v1/521edeb1e4b01d29835d1d62/1505868895705-22IDPY5GTIBDY31CRWXT/cont.png?format=1500w)
+ ![MasterHead](https://images.squarespace-cdn.com/content/v1/521edeb1e4b01d29835d1d62/1505868895705-22IDPY5GTIBDY31CRWXT/cont.png?format=1500w)
 
 
 <h1 align="center">Hi 👋, I'm Elif DEMİRKIRAN</h1>
