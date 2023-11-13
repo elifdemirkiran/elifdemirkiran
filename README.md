@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter & Artificial Intelligence**
 
-- 💬 Ask me about **Natural Language Processing**
+- 💬 Ask me about **Natural Language Processing**,**Data Mining**
 
 - 📫 How to reach me **1elifdemirkiran@gmail.com**
 
